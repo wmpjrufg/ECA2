@@ -19,3 +19,24 @@ Os esforços solicitantes na viga são os momentos fletores e as forças cortant
 
 * Dimensionamento da viga:
 O dimensionamento da viga envolve a determinação da seção transversal adequada para suportar os esforços solicitantes calculados anteriormente. Esse processo leva em consideração os limites de resistência do material escolhido e as normas de projeto estrutural aplicáveis. O objetivo é garantir que a viga seja suficientemente resistente e estável para suportar as cargas sem sofrer deformações excessivas ou falhas estruturais.  
+
+Exemplo aplicado:  
+
+Faça um pré-dimensionamento das vigas de uma estrutura feita em concreto armado de um ponto de ônibus, na qual as vigas VS1 e VS2 estão bi-apoiadas por pilares, e a viga VS3 está em balanço, apoiada apenas em uma das suas extremidades.  
+
+* Vãos efetivos:  
+VS1:  
+$l_{ef} = 150 cm$  
+VS2:  
+$l_{ef} = 450 cm$  
+VS3:  
+$l_{ef} = 150 cm$  
+
+* Dimensionar altura das vigas bi-apoiadas VS1 e VS2:  
+Para VS1:  
+$$h = \frac{l_{ef}}{10} = \frac{150}{10} = 15 cm$$
+Para VS2:  
+$$h = \frac{l_{ef}}{10} = \frac{450}{10} = 45 cm$$
+* Dimensionar altura da viga em balanço VS3:  
+Para VS3:  
+$$h = \frac{l_{ef}}{5} = \frac{150}{5} = 30 cm$$  
