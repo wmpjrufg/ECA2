@@ -1,5 +1,7 @@
 # Pré-dimensionamento das Vigas
 
+O pré dimensionamento das vigas pode ser resumido em um passo a passo intuitivo.  
+
 * Identificação das cargas aplicadas à viga:
 Nesse passo, é necessário identificar todas as cargas que serão aplicadas à viga. Isso inclui as cargas permanentes, que são constantes ao longo do tempo, como o peso próprio da viga e dos elementos estruturais anexados a ela, e as cargas variáveis, que podem mudar com o tempo, como a carga de pessoas, móveis ou equipamentos.
 
