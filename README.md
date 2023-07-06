@@ -7,4 +7,4 @@
 *ℓx, correspondendo à borda menor da laje; e
 *ℓy, correspondendo à borda maior da laje.
 
-!https://www.concretoarmado.org/post/aula-04-2-pre-dimensionamento-de-lajes-vigas-e-pilares
+![https://www.concretoarmado.org/post/aula-04-2-pre-dimensionamento-de-lajes-vigas-e-pilares]
