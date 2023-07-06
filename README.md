@@ -40,3 +40,5 @@ $$h = \frac{l_{ef}}{10} = \frac{450}{10} = 45 cm$$
 * Dimensionar altura da viga em balanço VS3:  
 Para VS3:  
 $$h = \frac{l_{ef}}{5} = \frac{150}{5} = 30 cm$$  
+
+A fim de padronizar o processo construtivo, foi adotado uma altura da viga (h) de 30 cm. Já para a largura da viga (bw) foi estimado um tijolo de 9 cm mais 5 cm de reboco (2,5 cm para cada lado). Dessa forma, a viga adotada é de 14 cm x 30 cm.  
