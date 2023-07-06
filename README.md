@@ -35,27 +35,29 @@ As espessuras das lajes devem respeitar os seguintes limites mínimos, conforme 
 ser feita pela consideração do fator λ = ly⁄lx, sendo essa uma classificação geométrica do elemento em função da disposição da armadura na peça. Tais
 situações são descritas a seguir:
 
-* a) λ > 2: Laje armada em uma direção: As barras para suprimir os esforços de tração são dispostas sempre em lx e barras construtivas são dispostas em ly.
-* b) λ ≤ 2: Laje armada em duas direções: As barras para suprimir os esforços de tração são dispostas sempre nas duas direções em planta lx e ly.
+  a) λ > 2: Laje armada em uma direção: As barras para suprimir os esforços de tração são dispostas sempre em lx e barras construtivas são dispostas em ly.  
+  b) λ ≤ 2: Laje armada em duas direções: As barras para suprimir os esforços de tração são dispostas sempre nas duas direções em planta lx e ly.
 
 No caso, λ = 3, sendo então uma laje armada em uma direção.
 
 Dessa forma, a partir desse resultado, para lajes maciças em concreto armado, Rebello (2007), estabelece os seguintes critérios:
 
-a) Laje armada em duas direções:
+a) Laje armada em duas direções:  
 
-$$
-h = 2%.\frac{lx + ly}{2}
-$$
+  $$
+  h = 0,02.\frac{lx + ly}{2}
+  $$
 
 b) Laje armada em uma direção:
 
 $$
-h = 2%.lx
+h = 0,02.lx
 $$
 
 c) Lajes em balanço:
 
 $$
-h = 4%.lx
+h = 0,04.lx
 $$
+
+Como a laje é em balanço, tem-se $h = 0,04 . 150 = 6 cm$, contudo a altura mínima é 10 cm, alcançando-se uma laje com h = 10 cm.
