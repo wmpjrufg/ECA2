@@ -45,17 +45,17 @@ Dessa forma, a partir desse resultado, para lajes maciças em concreto armado, R
 a) Laje armada em duas direções:
 
 $$
-h = 2% . \frac{lx + ly}{2}
+h = 2%.\frac{lx + ly}{2}
 $$
 
 b) Laje armada em uma direção:
 
 $$
-h = 2% . lx
+h = 2%.lx
 $$
 
 c) Lajes em balanço:
 
 $$
-h = 4% . lx
+h = 4%.lx
 $$
